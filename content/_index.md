@@ -7,7 +7,7 @@ header:
     # background_image: "/image/outpainting-home-right-optimized.jpg"
     # background_image: "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/assets/blog/background.png"
     # background_image: "https://cdn.jsdelivr.net/gh/qwenlm/qwenlm.github.io@master/static/img/background.webp"
-    background_image: "https://w.wallhaven.cc/full/9m/wallhaven-9m7qp1.jpg"
+    background_image: "https://w.wallhaven.cc/full/rd/wallhaven-rdkz7m.png"
     gradient: true
     blur: true
 description: Research and development of AGI for the benefit of mankind.
