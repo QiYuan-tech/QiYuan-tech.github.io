@@ -6,7 +6,8 @@ header:
     # background: "linear-gradient(to left, #0a4d8c, #3f8ab9, #5bc0de, #a2dfff);"
     # background_image: "/image/outpainting-home-right-optimized.jpg"
     # background_image: "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/assets/blog/background.png"
-    background_image: "https://cdn.jsdelivr.net/gh/qwenlm/qwenlm.github.io@master/static/img/background.webp"
+    # background_image: "https://cdn.jsdelivr.net/gh/qwenlm/qwenlm.github.io@master/static/img/background.webp"
+    background_image: "https://w.wallhaven.cc/full/6d/wallhaven-6d7xmx.jpg"
     gradient: true
     blur: true
 description: Research and development of AGI for the benefit of mankind.
