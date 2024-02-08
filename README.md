@@ -1,1 +1,1 @@
-# QiYuan-tech.github.io
+This is the official website of **Qiyuan.Tech**. Our website uses the [Qwen Team blog template](https://github.com/QwenLM/qwenlm.github.io) and is based on [Hexo](https://gohugo.io/). We are very grateful for this.
