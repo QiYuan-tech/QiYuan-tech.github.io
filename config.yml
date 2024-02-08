@@ -1,5 +1,5 @@
-baseURL: "http://qwenlm.github.io/"
-title: Qwen
+baseURL: "https://qiyuan-tech.github.io"
+title: Qiyuan.Tech
 paginate: 5
 theme: PaperMod
 
@@ -11,7 +11,7 @@ buildExpired: false
 ignoreErrors: ["error-remote-getjson"]
 
 # googleAnalytics: UA-123-45
-googleAnalytics: G-NMEMBZ8R90
+googleAnalytics:
 
 defaultContentLanguage: en
 languages:
@@ -31,10 +31,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Qwen
-  description: "Qwen"
+  title: Qiyuan.Tech
+  description: "Qiyuan.Tech"
   keywords: ["multi-modal", "machine learning", "blog"]
-  author: Qwen Team
+  author: Qiyuan.Tech
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
 
@@ -78,7 +78,7 @@ params:
     safari_pinned_tab:  "https://acd-assets.alicdn.com/acd_work/tongyi/assets/logo.svg"
 
   label:
-    text: "Qwen"
+    text: "Qiyuan.Tech"
     # icon: /image/logo.svg
     icon_svg: '<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
